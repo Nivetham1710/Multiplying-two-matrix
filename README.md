@@ -40,4 +40,5 @@ print("Product of two arrays is:",result)
 ![GitHub Logo](.//h1.png)
 
 ## RESULT:
+Thus the program is written to multiply two matrix.
 
